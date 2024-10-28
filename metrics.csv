@@ -1,0 +1,17 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_SUM.metric.type="iam.googleapis.com/workload_identity_federation/count" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider" metric.label."result"="success".60s.pool_id:github.project_id:cs1660-435323
+pool_id,github
+project_id,cs1660-435323
+Mon Oct 28 2024 13:03:00 GMT-0400 (Eastern Daylight Time),0.001111129629938277
+Mon Oct 28 2024 13:15:00 GMT-0400 (Eastern Daylight Time),0.015555537036728389
+Mon Oct 28 2024 13:16:00 GMT-0400 (Eastern Daylight Time),0.001111129629938277
+Mon Oct 28 2024 13:22:00 GMT-0400 (Eastern Daylight Time),0.015555537036728389
+Mon Oct 28 2024 13:23:00 GMT-0400 (Eastern Daylight Time),0.001111129629938277
+Mon Oct 28 2024 13:44:00 GMT-0400 (Eastern Daylight Time),0.015555537036728389
+Mon Oct 28 2024 13:45:00 GMT-0400 (Eastern Daylight Time),0.001111129629938277
+Mon Oct 28 2024 13:48:00 GMT-0400 (Eastern Daylight Time),0.015555537036728389
+Mon Oct 28 2024 13:49:00 GMT-0400 (Eastern Daylight Time),0.001111129629938277
+Mon Oct 28 2024 13:53:00 GMT-0400 (Eastern Daylight Time),0.015555537036728389
+Mon Oct 28 2024 13:54:00 GMT-0400 (Eastern Daylight Time),0.04777774074012344
+Mon Oct 28 2024 13:55:00 GMT-0400 (Eastern Daylight Time),0.003333388889814833
+Mon Oct 28 2024 13:56:00 GMT-0400 (Eastern Daylight Time),0.062222148146913556
+Mon Oct 28 2024 13:57:00 GMT-0400 (Eastern Daylight Time),0.004444518519753108
